@@ -1,6 +1,5 @@
 # Don't Get Summoned!
-
-A stealth office simulator created for a game jam by Oatmilkmaid (@oatmilkmaid) and busisen (@busisen)
+A desktop sim game made by me and Freja Ling during a weekend for Ludum Dare 55 with the theme "Summoning"
 
 ### Links
 
@@ -9,15 +8,13 @@ A stealth office simulator created for a game jam by Oatmilkmaid (@oatmilkmaid) 
 
 ## About
 
-In Don't Get Summoned!, you're an office worker trying to maintain the perfect balance: doing just enough work to stay employed while avoiding unnecessary social interactions. Navigate through your 9-5 workday, dodge meetings and social events, all while keeping your coworkers' approval ratings high enough to avoid that dreaded summons to your boss' office!
+You work at your 9-5 office job, and while your colleagues are pleasant enough, you want as little face time with them as possible. You may get summoned for meetings or social events with coworkers, but do your very best to avoid them whilst keeping their approval of you high and finishing your other tasks on time. Otherwise you will get called to your boss’ office and it’s game over for your minimum effort office tactics.
 
 ![Screenshot 1](./screenshots/img2.jpg)
 
 ## Controls
 
-- Mouse - Primary interaction
-- WASD / arrow keys - Movement
-- Spacebar - Special task interactions
+- Mouse/keyboard
 
 ## Screenshots
 
@@ -27,9 +24,3 @@ In Don't Get Summoned!, you're an office worker trying to maintain the perfect b
 ![Screenshot 5](./screenshots/img5.jpg)
 ![Screenshot 6](./screenshots/img6.jpg)
 ![Screenshot 7](./screenshots/img7.jpg)
-
-## Credits
-
-Created by:
-- Oatmilkmaid (@oatmilkmaid)
-- busisen (@busisen)
